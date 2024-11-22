@@ -1,0 +1,162 @@
+body{
+    display: flex;
+}
+
+.pic1{
+    position: absolute;
+    width: 1240px;
+    margin-left: 6px;
+}
+.pic2{position: absolute;
+    width: 1200px;
+    height: 240px;
+    margin-left:28px ;
+    top: 250px;
+}
+.pic3{
+    position: absolute;
+    top: 500px;
+    width: 1150px;
+    margin-left: 59px;
+}
+.best{
+    position: absolute;
+    margin-left: 400px;
+    top: 600px;
+   
+}
+.div1{
+    position: absolute;
+    top: 700px;
+}
+.div2{
+    position: absolute;
+    top: 700px;
+    left: 300px;
+}
+.div3{
+    position: absolute;
+    top: 680px;
+    left: 620px;
+}
+.div4{
+    position: absolute;
+    top: 700px;
+    left: 930px;
+}
+.div5{
+    position: absolute;
+    top: 1270px;
+    left: -20px;
+}
+.div6{
+    position: absolute;
+    top: 1280px;
+    left: 300px;
+}
+.div7{
+    position: absolute;
+    top: 1320px;
+    left: 680px;
+}
+.div8{
+    position: absolute;
+    top: 1300px;
+    left: 950px;
+}
+.board{
+    position: absolute;
+    top: 1840px;
+    width: 1250px;
+}
+.txt10{
+    position: absolute;
+    top: 1881px;
+    left: 280px;
+    width: 700px;
+  background-color: white;
+  color: black;
+}
+.txt11{
+    position: absolute;
+    top: 1919px;
+    left: 500px;
+    width: 270px;
+  background-color: white;
+  color: black;
+}
+.div9{
+    position: absolute;
+    top: 2100px;
+    
+}
+.div10{
+    position: absolute;
+    top: 2090px;
+    left: 310px;
+}
+.div11{
+    position: absolute;
+    top: 2130px;
+    left: 640px;
+}
+.div12{
+    position: absolute;
+    top: 2100px;
+    left: 930px;
+}
+.div13{
+    position: absolute;
+    top: 2690px;
+}
+.div14{
+    position: absolute;
+    top: 2690px;
+    left: 340px;
+}
+.div15{
+    position: absolute;
+    top: 2690px;
+    left: 630px;
+}
+.div16{
+    position: absolute;
+    top: 2660px;
+    left: 950px;
+}
+.text4{
+    position: absolute;
+    top: 3200px;
+}
+.lasttext{
+    position: absolute;
+    top: 8500px;
+    height: 320px;
+    color: white;
+}
+.lastimg{
+    position: absolute;
+    height: 200px;
+    left: 38px;
+}
+
+.payment{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    border: 2px solid black;
+    border-radius: 20px;
+    top: 350px;
+
+}
+
+.sub{
+    position: absolute;
+    top: -90px;
+}
+
+.pay{
+    position: absolute;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+     top: -10px;
+}
